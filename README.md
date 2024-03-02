@@ -1,2 +1,2 @@
 # Edverb
-One stop solution for all Education problems.
+One stop solution for all Educational problems.
